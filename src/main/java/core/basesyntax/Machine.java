@@ -1,6 +1,7 @@
 package core.basesyntax;
+
 public class Machine {
-    public void doWork(){
+    public void doWork() {
         System.out.println("Star work!");
     }
 
