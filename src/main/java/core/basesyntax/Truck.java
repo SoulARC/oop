@@ -1,5 +1,7 @@
 package core.basesyntax;
 
+import core.basesyntax.Machine;
+
 public class Truck extends Machine {
     @Override
     public void stopWork() {
